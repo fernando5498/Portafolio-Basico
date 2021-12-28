@@ -6,10 +6,10 @@
     --font-semi-bold: 600;
     --font-bold: 700;
     /* ====== Colors ======== */
-    --first-color: #cc4b2c;
-    --first-color-dark: #662616;
-    --first-color-darken: #290f09;
-    --text-color: #54423d;
+    --first-color: #2236a7;
+    --first-color-dark: #15226e;
+    --first-color-darken: #15176a;
+    --text-color: #4870be;
     --first-color-light: #eae7e6;
     --first-color-lighten: #fffafa;
     /* =======Font size========= */
@@ -556,7 +556,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: rgba(204, 75, 44, .7);
+    background: rgba(72, 111, 190, 0.7);
     border-radius: .5rem;
     transition: .3s;
 }
